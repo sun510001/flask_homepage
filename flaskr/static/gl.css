@@ -1,0 +1,37 @@
+
+.gl {
+    white-space: nowrap
+}
+
+.big .tsf-p {
+    padding-left: 150px;
+    padding-right: 352px
+}
+
+.hp .tsf-p {
+    padding-left: 173px;
+    padding-right: 173px
+}
+
+.hp #tsf {
+    margin: 0 auto;
+    width: 833px
+}
+
+#tsf {
+    width: 833px
+}
+
+.big #tsf, .hp .big #tsf {
+    width: 1139px
+}
+
+.tsf-p {
+    padding-left: 150px;
+    padding-right: 46px
+}
+
+.hp .big .tsf-p {
+    padding-left: 284px;
+    padding-right: 284px
+}

@@ -1,0 +1,67 @@
+
+#gb {
+    font-size: 13px
+}
+
+#gb {
+    position: relative;
+    top: 8px
+}
+
+div#searchform {
+    min-width: 980px;
+    z-index: 103
+}
+
+div.sfbg, div.sfbgg {
+    min-width: 980px;
+    height: 64px
+}
+
+.sfbgx {
+    height: 85px;
+    position: absolute;
+    width: 100%;
+    min-width: 980px
+}
+
+.hp .sfbgx {
+    display: none
+}
+
+.big form#tsf, form#tsf {
+    width: auto;
+    max-width: 784px;
+    overflow: hidden
+}
+
+#searchform.big > #tsf {
+    max-width: 784px
+}
+
+.big div.tsf-p, form > div.tsf-p {
+    margin: -1px 0 0;
+    padding-right: 0
+}
+
+#gb {
+    top: 16px
+}
+
+div#viewport {
+    position: absolute;
+    top: 0;
+    width: 100%
+}
+
+div#searchform.jhp {
+    margin-top: 0
+}
+
+#searchform.big.jhp > #tsf {
+    max-width: none
+}
+
+.jhp > #tsf {
+    max-width: none
+}

@@ -1,0 +1,35 @@
+
+.gLFyf {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, .87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px
+}
+
+.minidiv .gLFyf {
+    margin-top: -34px;
+}
+
+.a4bIc {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap
+}
+
+.vdLsw {
+    color: transparent;
+    flex: 100%;
+    white-space: pre
+}
+
+.vdLsw span {
+    background: url("https://www.google.com/images/experiments/wavy-underline.png") repeat-x scroll 0 100% transparent;
+    padding: 0 0 10px 0;
+}
